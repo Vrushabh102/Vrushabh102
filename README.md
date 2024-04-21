@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vrushabh102
+- 👋 Hi, I’m Vrushabh Wadalkar
 - 👀 I’m interested in Cross Platform Development
 - 🌱 I’m currently learning Flutter Framework
 - 📫 How to reach me vrushabhwadalkar@gmail.com
